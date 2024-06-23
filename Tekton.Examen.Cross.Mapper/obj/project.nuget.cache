@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vknb9HSzsqCHExLLcnw2zO9JspH3woEH0TF1fgbazXNg7Qe9SAXkjBRtN2L9Z0JkAQnQsIfnsy5GVlZrp/BizA==",
+  "success": true,
+  "projectFilePath": "D:\\TEKTON\\Tekton.Examen - v2\\Tekton.Examen.Cross.Mapper\\Tekton.Examen.Cross.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

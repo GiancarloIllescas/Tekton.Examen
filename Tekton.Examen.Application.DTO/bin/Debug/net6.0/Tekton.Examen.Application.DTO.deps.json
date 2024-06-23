@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tekton.Examen.Application.DTO/1.0.0": {
+        "runtime": {
+          "Tekton.Examen.Application.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tekton.Examen.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

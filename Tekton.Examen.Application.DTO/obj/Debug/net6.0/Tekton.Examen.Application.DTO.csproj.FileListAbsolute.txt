@@ -1,0 +1,24 @@
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\bin\Debug\net6.0\Tekton.Examen.Application.DTO.deps.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\bin\Debug\net6.0\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\bin\Debug\net6.0\Tekton.Examen.Application.DTO.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\refint\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Application.DTO\obj\Debug\net6.0\ref\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\bin\Debug\net6.0\Tekton.Examen.Application.DTO.deps.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\bin\Debug\net6.0\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\bin\Debug\net6.0\Tekton.Examen.Application.DTO.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\refint\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\Tekton.Examen.Application.DTO.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Application.DTO\obj\Debug\net6.0\ref\Tekton.Examen.Application.DTO.dll

@@ -1,0 +1,144 @@
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\appsettings.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.exe
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.deps.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.runtimeconfig.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.xml
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Interface.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Main.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Mapper.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Core.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Entity.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Interface.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Data.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Interface.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Repository.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.DTO.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Interface.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Main.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Mapper.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Core.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Entity.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Interface.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Interface.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Repository.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Data.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Tekton.Examen.Services.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Tekton.Examen.Services.WebApi.props
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tekton.Examen.Services.WebApi.props
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tekton.Examen.Services.WebApi.props
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\scopedcss\bundle\Tekton.Examen.Services.WebApi.styles.css
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.csproj.CopyComplete
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\refint\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.xml
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.genruntimeconfig.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\ref\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\appsettings.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.exe
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.deps.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.runtimeconfig.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Services.WebApi.xml
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.DTO.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Features.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Interface.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Mapper.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Entity.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.DTO.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Interface.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Application.Features.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Cross.Mapper.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Domain.Entity.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Tekton.Examen.Services.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Tekton.Examen.Services.WebApi.props
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tekton.Examen.Services.WebApi.props
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tekton.Examen.Services.WebApi.props
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\scopedcss\bundle\Tekton.Examen.Services.WebApi.styles.css
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.csproj.CopyComplete
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\refint\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.xml
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\Tekton.Examen.Services.WebApi.genruntimeconfig.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\obj\Debug\net6.0\ref\Tekton.Examen.Services.WebApi.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Persistence.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Tekton.Examen.Persistence.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\products.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Services.WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

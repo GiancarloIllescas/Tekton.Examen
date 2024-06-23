@@ -1,0 +1,24 @@
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\bin\Debug\net6.0\Tekton.Examen.Cross.Common.deps.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\bin\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\bin\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\refint\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Common\obj\Debug\net6.0\ref\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\bin\Debug\net6.0\Tekton.Examen.Cross.Common.deps.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\bin\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\bin\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\refint\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Common\obj\Debug\net6.0\ref\Tekton.Examen.Cross.Common.dll

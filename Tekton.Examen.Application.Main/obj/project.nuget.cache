@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "b81oE9atABuajMCFe3ZXwqpk8KNE+3VujrZq6wvyuxF0w/NFrRI0z8FwQLpqRRA7SEKSFjY0of81++2pZkYioA==",
+  "success": true,
+  "projectFilePath": "D:\\TEKTON\\Tekton.Examen - v2\\Tekton.Examen.Application.Main\\Tekton.Examen.Application.Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

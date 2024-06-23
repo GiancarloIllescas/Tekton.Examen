@@ -1,0 +1,30 @@
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.deps.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.csproj.CopyComplete
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\refint\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\ref\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.deps.json
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Logging.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\bin\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.csproj.CopyComplete
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\refint\Tekton.Examen.Cross.Logging.dll
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\Tekton.Examen.Cross.Logging.pdb
+D:\TEKTON\Tekton.Examen - v2\Tekton.Examen.Cross.Logging\obj\Debug\net6.0\ref\Tekton.Examen.Cross.Logging.dll

@@ -1,0 +1,29 @@
+[
+  {
+    "ProductId": 1,
+    "Name": "Mueble",
+    "Status": 1,
+    "StatusName": "Active",
+    "Stock": 100,
+    "Description": "Mueble Viejo",
+    "Price": 1000.0
+  },
+  {
+    "ProductId": 2,
+    "Name": "Mesa",
+    "Status": 1,
+    "StatusName": "Active",
+    "Stock": 500,
+    "Description": "Mesa Vieja",
+    "Price": 100.0
+  },
+  {
+    "ProductId": 3,
+    "Name": "Escritorio",
+    "Status": 1,
+    "StatusName": "Active",
+    "Stock": 800,
+    "Description": "Escritorio grande",
+    "Price": 999.0
+  }
+]

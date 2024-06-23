@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eYqkPQwQYleanYJCZGv0VhWcDm+618lCVFr2i8dySyE=",
+  "Source": "Tekton.Examen.Services.WebApi",
+  "BasePath": "_content/Tekton.Examen.Services.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

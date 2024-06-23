@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tekton.Examen.Application.DTO\Tekton.Examen.Application.DTO.csproj" />
+    <ProjectReference Include="..\Tekton.Examen.Application.Interface\Tekton.Examen.Application.Interface.csproj" />
+    <ProjectReference Include="..\Tekton.Examen.Application.Main\Tekton.Examen.Application.Features.csproj" />
+    <ProjectReference Include="..\Tekton.Examen.Cross.Common\Tekton.Examen.Cross.Common.csproj" />
+    <ProjectReference Include="..\Tekton.Examen.Cross.Logging\Tekton.Examen.Cross.Logging.csproj" />
+    <ProjectReference Include="..\Tekton.Examen.Cross.Mapper\Tekton.Examen.Cross.Mapper.csproj" />
+    <ProjectReference Include="..\Tekton.Examen.Domain.Entity\Tekton.Examen.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Tekton.Examen.Persistence.Repository\Tekton.Examen.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

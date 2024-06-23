@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIxngwkF/mLDKy2nwf1+AiuM/xJjlR/PobpDSu14o+aBdF9av8HDKcq9QMbA525xD1DRFOneM5y6kE/Fd41HNQ==",
+  "success": true,
+  "projectFilePath": "D:\\TEKTON\\Tekton.Examen - v2\\Tekton.Examen.Infrastructure.Repository\\Tekton.Examen.Persistence.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\IllescasTolmos\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

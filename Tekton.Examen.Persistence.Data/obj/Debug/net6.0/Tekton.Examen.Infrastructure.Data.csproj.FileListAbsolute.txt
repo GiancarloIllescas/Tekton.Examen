@@ -1,0 +1,15 @@
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Data.deps.json
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Data.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\bin\Debug\net6.0\Tekton.Examen.Infrastructure.Data.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\bin\Debug\net6.0\Tekton.Examen.Cross.Common.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\bin\Debug\net6.0\Tekton.Examen.Cross.Common.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.AssemblyInfo.cs
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.csproj.CopyComplete
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\refint\Tekton.Examen.Infrastructure.Data.dll
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\Tekton.Examen.Infrastructure.Data.pdb
+D:\TEKTON\Tekton.Examen\Tekton.Examen.Infrastruture.Data\obj\Debug\net6.0\ref\Tekton.Examen.Infrastructure.Data.dll
